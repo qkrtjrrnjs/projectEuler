@@ -1,0 +1,2 @@
+PROJECTEULER
+	-solutions/practice
