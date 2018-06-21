@@ -1,9 +1,13 @@
 #include<stdio.h>
 
+/*
+	Problem 1:  Multiples of 3 and 5
+*/
+
 int solver();
 
 int main(){
-	printf("ans:%d\n", solver());
+	printf("ans: %d\n", solver());
 }
 
 int  solver(){
