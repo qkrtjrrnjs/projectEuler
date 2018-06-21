@@ -1,4 +1,4 @@
-# Project Euler Journey
+# Project Euler Adventure
 
 ## Objective 
 - finding solutions using java, C, python, etc. 
