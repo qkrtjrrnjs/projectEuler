@@ -1,2 +1,5 @@
-PROJECTEULER
-	-solutions/practice
+# Project Euler Journey
+
+## Objective 
+- finding solutions using java, C, python, etc. 
+- programming/math practice 
